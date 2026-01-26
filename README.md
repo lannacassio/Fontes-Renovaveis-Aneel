@@ -62,7 +62,97 @@ Os dados foram obtidos pelo site da [ANEEL](https://dadosabertos.aneel.gov.br/) 
 
 ## Análise e Visualização
 
+Foram analisados os dados de aproximadamente 3.8 milhões de registros de atualizações no conjunto de dados final. Para observar tendências diferenciadas, foram desenvolvidas visualizações diretamente no Power BI.
 
+### kW instalados por Tipo de Geração
+
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/tipo_gera%C3%A7%C3%A3o.png"></td>
+              </tr>
+       </table>
+</body>
+</html>
+
+**Percepções**
+*
+
+### kW instalados por Tipo de Consumidor
+
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/tipo_consumidor.png"></td>
+              </tr>
+       </table>
+</body>
+</html>
+
+**Percepções**
+*
+
+### Estados com maior kW instalados
+
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/estado.png"></td>
+              </tr>
+       </table>
+</body>
+</html>
+
+**Percepções**
+*
+
+### kW instalados por Região
+
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/Regi%C3%A3o.png"></td>
+              </tr>
+       </table>
+</body>
+</html>
+
+**Percepções**
+*
+
+### Modalidade do Consumo dos kW
+
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/modalidade.png"></td>
+              </tr>
+       </table>
+</body>
+</html>
+
+**Percepções**
+*
+
+### Atualização das fontes energéticas ao longo do tempo
+
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/mes_ano.png"></td>
+              </tr>
+       </table>
+</body>
+</html>
+
+**Percepções**
+*
 
 # Conclusão e Recomendação
 
