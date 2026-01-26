@@ -27,11 +27,11 @@ Os dados foram obtidos pelo site da [ANEEL](https://dadosabertos.aneel.gov.br/) 
 
 ## Tarefa de Negócios
 
-  . Mapear o Panorama Nacional: Identificar que o mercado atingiu.
-  . Segmentar o Perfil de Investimento.
-  . Identificar Polos com maior atualização da fonte energética.
-  . Analisar a Dinâmica Operacional e Temporal.
-  . Auditar a Infraestrutura Tarifária.
+    . Mapear o Panorama Nacional: Identificar que o mercado atingiu.
+    . Segmentar o Perfil de Investimento.
+    . Identificar Polos com maior atualização da fonte energética.
+    . Analisar a Dinâmica Operacional e Temporal.
+    . Auditar a Infraestrutura Tarifária.
 
 ## Dados
 
