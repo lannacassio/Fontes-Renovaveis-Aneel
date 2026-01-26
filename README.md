@@ -56,6 +56,8 @@ Os dados foram obtidos pelo site da [ANEEL](https://dadosabertos.aneel.gov.br/) 
   * As colunas tiveram nomes alterados para melhor entendimento;
   * As linhas que continham a data inferior a 2010 foram eliminadas.
 
+>Após a limpeza e consolidação dos dados em uma tabela foram obtidas 3.863.030 linhas e 18 colunas
+
 ## Análise e Visualização
 
 
@@ -64,4 +66,10 @@ Os dados foram obtidos pelo site da [ANEEL](https://dadosabertos.aneel.gov.br/) 
 
 #  Possíveis escolhas para análise mais aprofundada
 
+Para uma análise mais profunda e detalhada seria ideal algumas informações: 
+
+* Conseguir informações se há incentivos regionais para aderir às energias renováveis.
+* Entender se há uma relação entre o PIB regional e a utilização de fontes renováveis.
+* Fazer uma análise sobre fatores externos, como pandemia, influenciaram a aderência da transição energética.
+* Criar modelos temporais para estimar o crescimento da geração nos próximos dois anos.
  
