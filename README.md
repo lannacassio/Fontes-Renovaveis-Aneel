@@ -5,18 +5,19 @@ Autor: Cássio Lanna
 
 ## Índice
 
-[1. Introdução]
+[1. Introdução](#introdução)
 
-[2. Tarefa de negócios]
+[2. Tarefa de negócios](#tarefa-de-negócios)
 
-[3. Dados]
+[3. Dados](#dados)
 
-[4. Processmento e Limpeza]
-[5. Análise e Visualização]
+[4. Processmento e Limpeza](#processamento-e-limpeza)
 
-[6. Conclusão e Recomendação]
+[5. Análise e Visualização](#análise-e-visualização)
 
-[7. Possíveis escolhas para análise mais aprofundada]
+[6. Conclusão e Recomendação](#conclusão-e-recomendação)
+
+[7. Possíveis escolhas para análise mais aprofundada](#possíveis-escolhas-para-análise-mais-aprofundada)
 
 ## Introdução
 
