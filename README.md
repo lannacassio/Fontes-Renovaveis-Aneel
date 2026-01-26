@@ -45,7 +45,7 @@ Os dados foram obtidos pelo site da [ANEEL](https://dadosabertos.aneel.gov.br/) 
 
 * Os dados foram baixados para o HD local para manipulação e análise usando o **Python**;
 * Toda a **documentação e script** do trabalho está [aqui](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Arquivo_Python/analise_aneel.ipynb).
-* [**Dashboard**]
+* [**Dashboard**](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/tree/main/Arquivo_Power_BI)
 * Antes da limpeza, todo o dataset possuia  linhas 3.913.121 linas e 33 colunas.
 * **Processo de limpeza:** No processo de limpeza foram feitas:
   * Eliminação de 15 colunas que não são necessárias para a análise;
@@ -66,6 +66,15 @@ Os dados foram obtidos pelo site da [ANEEL](https://dadosabertos.aneel.gov.br/) 
 
 # Conclusão e Recomendação
 
+* Há uma dominância da energia solar, enquanto há pouco investimento nas demais escolhas.
+* O volume de investimento é liderado por Pessoas Físicas, que corresponde a aproximadamente 65% da potência total instalada.
+* A região Sudeste lidera o rank com maior capacidade instalada.
+* A "Geração na própria Unidade Consumidora" é a modalidade mais madura, mas o Autoconsumo Remoto já demonstra uma fatia significativa de mercado, indicando uma descentralização da geração.
+* **Recomendações**:
+    * Empresas de instalação devem priorizar o seguimento PJ(Pessoa Jurídica), dado sua representatividade financeira e possibilidade maior da potência média.
+    * Municípios com alta incidência solar e baixa densidade de usinas, representam uma nova frente de vendas, especialmente fora do eixo Minas-São Paulo.
+    * O alto volume de conexões residiciais exige um maior monitoramente das distribuidoras para evitar sobrecargas, abrindo espaço para soluções de armazenamento de energia.
+
 #  Possíveis escolhas para análise mais aprofundada
 
 Para uma análise mais profunda e detalhada seria ideal algumas informações: 
@@ -74,4 +83,5 @@ Para uma análise mais profunda e detalhada seria ideal algumas informações:
 * Entender se há uma relação entre o PIB regional e a utilização de fontes renováveis.
 * Fazer uma análise sobre fatores externos, como pandemia, influenciaram a aderência da transição energética.
 * Criar modelos temporais para estimar o crescimento da geração nos próximos dois anos.
+* Entender se algo influencia a pouca aderência da região Norte ao implementar as fontes renováveis.
  
