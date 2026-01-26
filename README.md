@@ -44,7 +44,7 @@ Os dados foram obtidos pelo site da [ANEEL](https://dadosabertos.aneel.gov.br/) 
 
 
 * Os dados foram baixados para o HD local para manipulação e análise usando o **Python**;
-* Toda a **documentação e script** do trabalho está [aqui.]
+* Toda a **documentação e script** do trabalho está [aqui](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Arquivo_Python/analise_aneel.ipynb).
 * [**Dashboard**]
 * Antes da limpeza, todo o dataset possuia  linhas 3.913.121 linas e 33 colunas.
 * **Processo de limpeza:** No processo de limpeza foram feitas:
