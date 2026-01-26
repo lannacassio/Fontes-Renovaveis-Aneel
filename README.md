@@ -36,7 +36,7 @@ Os dados foram obtidos pelo site da [ANEEL](https://dadosabertos.aneel.gov.br/) 
 ## Dados
 
 * [Dados históricos](https://dadosabertos.aneel.gov.br/dataset/relacao-de-empreendimentos-de-geracao-distribuida) se encontra no arquivo empreendimento-geracao-distribuida disponível em **csv** retirado no dia 24/01/2026.
-* Dicionário do banco de dados, contendo a versão 2.3 atualizada em 17/11/2025.
+* [Dicionário](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Arquivos_ANEEL/dm-geracao-distribuida-relacao-de-empreendimentos.pdf) do banco de dados, contendo a versão 2.3 atualizada em 17/11/2025.
 * **Intervalo dos dados para análise**: junho de 2009 a janeiro de 2026 (1,3G).
 * O Conjunto de dados possui registros individuais sobre a alteração da fonte energéticas dos locais, incluindo a data, tipo de fonte energética, localização, latitude, longitude, distribuidoras responsável pela transferência, beneficiários, potência instaladas e quantas unidades foram contratadas.
 
