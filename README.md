@@ -56,7 +56,8 @@ Os dados foram obtidos pelo site da [ANEEL](https://dadosabertos.aneel.gov.br/) 
   * As colunas tiveram nomes alterados para melhor entendimento;
   * As linhas que continham a data inferior a 2010 foram eliminadas.
 
->Após a limpeza e consolidação dos dados em uma tabela foram obtidas 3.863.030 linhas e 18 colunas
+>Após a limpeza e consolidação dos dados em uma tabela foram obtidas 3.863.030 linhas e 18 colunas.
+
 >O arquivo csv limpo se encontra [aqui](https://drive.google.com/drive/folders/1b2dd77UNPztNKXTBFmChH3theqQYz3nY?usp=sharing)
 
 ## Análise e Visualização
