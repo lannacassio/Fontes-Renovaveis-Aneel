@@ -15,9 +15,11 @@ Autor: Cássio Lanna
 
 [5. Análise e Visualização](#análise-e-visualização)
 
-[6. Conclusão e Recomendação](#conclusão-e-recomendação)
+[6. Dashboard](#dashboard)
 
-[7. Possíveis escolhas para análise mais aprofundada](#possíveis-escolhas-para-análise-mais-aprofundada)
+[7. Conclusão e Recomendação](#conclusão-e-recomendação)
+
+[8. Possíveis escolhas para análise mais aprofundada](#possíveis-escolhas-para-análise-mais-aprofundada)
 
 ## Resumo
 
