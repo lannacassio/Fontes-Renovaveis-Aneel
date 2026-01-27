@@ -64,75 +64,59 @@ Os dados foram obtidos pelo site da [ANEEL](https://dadosabertos.aneel.gov.br/) 
 
 Foram analisados os dados de aproximadamente 3.8 milhões de registros de atualizações no conjunto de dados final. Para observar tendências diferenciadas, foram desenvolvidas visualizações diretamente no Power BI.
 
-### kW instalados por Tipo de Geração
+### Potência por Região
 
 </head>
 <body>
        <table>
               <tr>
-                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/tipo_gera%C3%A7%C3%A3o.png"></td>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/regiao.png"></td>
               </tr>
        </table>
 </body>
 </html>
 
 **Percepções**
-* A energia solar se encontra em primeiro lugar em escolha de fontes renováveis, possuindo aproximadamente 99% do mercado.
-* Apesar de escolhas como energia eólica, termelétrica e hidrelétrica, juntas não representam aproximadamente 1% da atualização da fonte energética.
+* 
 
-### kW instalados por Tipo de Consumidor
+### Potência em relação a Estado e Cidade
 
 </head>
 <body>
        <table>
               <tr>
-                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/tipo_consumidor.png"></td>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/potencia_estado.png"></td>
+                     <td><img src="https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/top_10_cidades.png"></td>
               </tr>
        </table>
 </body>
 </html>
 
 **Percepções**
-* Pessoa Física(PF) foi responsável pela maior parte da mudança de matriz, detendo aproximadamente 64% das atualizações.
-* Apesar de Pessoas Jurídicas(PJ) em muitas vezes possuirem maior capital, detém menor índice de alteração.
+* 
 
-### Estados com maior kW instalados
+### 
 
 </head>
 <body>
        <table>
               <tr>
-                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/estado.png"></td>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/tipo_consumidor_estado.png"></td>
               </tr>
        </table>
 </body>
 </html>
 
 **Percepções**
-*
+*  
 
-### kW instalados por Região
-
-</head>
-<body>
-       <table>
-              <tr>
-                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/Regi%C3%A3o.png"></td>
-              </tr>
-       </table>
-</body>
-</html>
-
-**Percepções**
-*
-
-### Modalidade do Consumo dos kW
+### 
 
 </head>
 <body>
        <table>
               <tr>
-                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/modalidade.png"></td>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/clase_consumidor_estado.png"></td>
               </tr>
        </table>
 </body>
@@ -141,13 +125,13 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 **Percepções**
 *
 
-### Atualização das fontes energéticas ao longo do tempo
+### 
 
 </head>
 <body>
        <table>
               <tr>
-                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/mes_ano.png"></td>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/consumidor_unidades_kw.png"></td>
               </tr>
        </table>
 </body>
@@ -155,6 +139,38 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 
 **Percepções**
 *
+
+### 
+
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/qtd_modalidade.png"></td>
+              </tr>
+       </table>
+</body>
+</html>
+
+**Percepções**
+*
+
+
+### 
+
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/transi%C3%A7%C3%A3o_anual.png"></td>
+              </tr>
+       </table>
+</body>
+</html>
+
+**Percepções**
+*
+
 
 # Conclusão e Recomendação
 
