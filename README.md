@@ -86,7 +86,6 @@ A ANEEL regulamenta a Geração Distribuída desde 2012 (RN 482), com marco regu
 
 
 * Toda a **documentação e script** do trabalho está [aqui](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Arquivo_Python/analise_aneel.ipynb).
-* [**Dashboard**](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/tree/main/Arquivo_Power_BI) para baixar e arquivo pdf deste.
 
 >O arquivo csv limpo se encontra [aqui](https://drive.google.com/drive/folders/1b2dd77UNPztNKXTBFmChH3theqQYz3nY?usp=sharing)
 
@@ -232,6 +231,32 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 * Queda 2025 requer investigação para entender se ocorreu mudança regulatória.
 
 
+## Dashboard
+
+Para análises interativas detalhadas, desenvolvi um dashboard em Power BI segmentado em três visões:
+
+**Visão Panorâmica**
+
+   KPIs: 43,09 Mi kW totais, 3,86 Mi unidades
+   Ranking de distribuidoras: CEMIG (MG), COPEL (PR) e CPFL (SP) lideram em adesão
+   Distribuição por tipo de geração (UFV domina com >99%)
+
+**Visão Regional**
+
+   Mapa de calor: Concentração no Sudeste e Sul
+   Análise por estado: Cross-data de classe consumidor vs. tarifa
+   Top distribuidoras: Performance por região de concessão
+
+**Visão de Tendências**
+
+   Comparativo de instalação: Modalidade dos consumidores
+   Projeção: Indicadores de crescimento mês a mês
+   Comparativo Consumidor: Comparação dos consumidores e a tensão instalada
+   
+Baixar [Dashboard](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/tree/main/Arquivo_Power_BI) Completo ([PDF](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/tree/main/Arquivo_Power_BI))
+(Desenvolvido em Power BI Desktop - dados atualizados jan/2026)
+
+
 # Conclusão e Recomendação
 
 * Há uma dominância da energia solar, enquanto há pouco investimento nas demais escolhas.
@@ -242,11 +267,14 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
     * Empresas de instalação devem priorizar o seguimento PJ(Pessoa Jurídica), dado sua representatividade financeira e possibilidade maior da potência média.
     * Municípios com alta incidência solar e baixa densidade de usinas, representam uma nova frente de vendas, especialmente fora do eixo Minas-São Paulo.
     * O alto volume de conexões residiciais exige um maior monitoramente das distribuidoras para evitar sobrecargas, abrindo espaço para soluções de armazenamento de energia.
+    * Focar em nichos de segmentos emergentes como instalação em Condomínos, modelo pouco explorado.
+    * Criar políticas diferenciadas para Norte e Nordeste (menor poder aquisitivo, maior potencial solar).
 
 #  Possíveis escolhas para análise mais aprofundada
 
 Para uma análise mais profunda e detalhada seria ideal algumas informações: 
-
+* Estimar tempo de retorno do investimento por estado (considerando insolação + tarifa local)
+* Cruzar tarifas de energia por distribuidora com velocidade de adoção da GD.
 * Conseguir informações se há incentivos regionais para aderir às energias renováveis.
 * Entender se há uma relação entre o PIB regional e a utilização de fontes renováveis.
 * Fazer uma análise sobre fatores externos, como pandemia, influenciaram a aderência da transição energética.
