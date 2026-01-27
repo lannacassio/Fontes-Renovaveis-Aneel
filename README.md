@@ -24,7 +24,7 @@ Autor: Cássio Lanna
 O mercado de Geração Distribuída (GD) no Brasil atingiu 43,09 milhões de kW instalados, distribuídos em 3,86 milhões de unidades consumidoras (jan/2026). Este estudo analisa a base histórica da [ANEEL](https://dadosabertos.aneel.gov.br/) (2009-2026) para identificar padrões de adoção, desigualdades regionais e oportunidades de expansão.
 O cenário consiste na análise de dados na demanda de atualização da matriz energética brasileira.
 
-    **Principais Descobertas**:
+   **Principais Descobertas**:
     
     . Os 5 estados:São Paulo, Minas Gerais, Paraná, Rio Grande do Sul, Mato Grosso possuem ~51% de toda potência energética do país.
     . Sul e Sudeste lideram apesar do Nordeste ter maior potencial solar.
@@ -52,24 +52,30 @@ A ANEEL regulamenta a Geração Distribuída desde 2012 (RN 482), com marco regu
 | **Tamanho final** | 3.863.030 registros, 18 colunas |
 | **Atualização** | 14/01/2026 |
 
+## Metodologia
+
+**Stack Tecnológico:**:
+   . **Limpeza & Análise**: Python 3.13 
+   . **Visualização**: Matplotlib, Seaborn, Plotly, Power BI (Dashboard Executivo)
+   . **Versionamento**: Git/GitHub
 
 ## Processamento e Limpeza
 
+**Ações Realizadas**:
 
-* Os dados foram baixados para o HD local para manipulação e análise usando o **Python**;
+*Eliminação de redundâncias: Removidas 15 colunas não essenciais;
+*Tratamento de valores nulos:
+   * Sigla do Agente: preenchida com sigla extraída do nome da empresa;
+   * Municípios vazios: exclusão das linhas;
+   * Dados categóricos: substituição pela moda;
+   * Dados numéricos: substituição pela mediana;
+*Remoção de duplicatas: Registros de atualização histórica consolidados;
+*Padronização: Renomeação de colunas para fácil entendimento;
+*Filtro temporal: Exclusão de registros anteriores a 2009 (inconsistências históricas).
+
+
 * Toda a **documentação e script** do trabalho está [aqui](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Arquivo_Python/analise_aneel.ipynb).
 * [**Dashboard**](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/tree/main/Arquivo_Power_BI) para baixar e arquivo pdf deste.
-* Antes da limpeza, todo o dataset possuía  linhas 3.913.121 linas e 33 colunas.
-* **Processo de limpeza:** No processo de limpeza foram feitas:
-  * Eliminação de 15 colunas que não são necessárias para a análise;
-  * Coluna SigAgente que continha valor vazio foi substituído pela Sigla da empresa contida na coluna NomAgente;
-  * Linhas em que tinha o município vazio foram excluídas;
-  * Valores vazios foram substituídos da seguinte forma: moda para valores qualitativos e mediana para valores quantitativos;
-  * Dados duplicados foram eliminados
-  * As colunas tiveram nomes alterados para melhor entendimento;
-  * As linhas que continham a data inferior a 2010 foram eliminadas.
-
->Após a limpeza e consolidação dos dados em uma tabela foram obtidas 3.863.030 linhas e 18 colunas.
 
 >O arquivo csv limpo se encontra [aqui](https://drive.google.com/drive/folders/1b2dd77UNPztNKXTBFmChH3theqQYz3nY?usp=sharing)
 
