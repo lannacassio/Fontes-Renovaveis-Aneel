@@ -239,27 +239,27 @@ Para análises interativas detalhadas, desenvolvi um dashboard em Power BI segme
 
 **Visão Panorâmica**
 
-   KPIs: 43,09 Mi kW totais, 3,86 Mi unidades
+  . KPIs: 43,09 Mi kW totais, 3,86 Mi unidades
    
-   Ranking de distribuidoras: CEMIG (MG), COPEL (PR) e CPFL (SP) lideram em adesão
+  . Ranking de distribuidoras: CEMIG (MG), COPEL (PR) e CPFL (SP) lideram em adesão
    
-   Distribuição por tipo de geração (UFV domina com >99%)
+  . Distribuição por tipo de geração (UFV domina com >99%)
 
 **Visão Regional**
 
-   Mapa de calor: Concentração no Sudeste e Sul
+  . Mapa de calor: Concentração no Sudeste e Sul
    
-   Análise por estado: Cross-data de classe consumidor vs. tarifa
+  . Análise por estado: Cross-data de classe consumidor vs. tarifa
    
-   Top distribuidoras: Performance por região de concessão
+  . Top distribuidoras: Performance por região de concessão
 
 **Visão de Tendências**
-
-   Comparativo de instalação: Modalidade dos consumidores
+  
+  . Comparativo de instalação: Modalidade dos consumidores
    
-   Projeção: Indicadores de crescimento mês a mês
+  . Projeção: Indicadores de crescimento mês a mês
    
-   Comparativo Consumidor: Comparação dos consumidores e a tensão instalada
+  . Comparativo Consumidor: Comparação dos consumidores e a tensão instalada
    
 Baixar [Dashboard](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/tree/main/Arquivo_Power_BI) Completo ([PDF](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/tree/main/Arquivo_Power_BI))
 (Desenvolvido em Power BI Desktop - dados atualizados jan/2026)
