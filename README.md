@@ -78,7 +78,9 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 
 **Percepções**
 
-* Sudeste detém 33,9% de toda a potência instalada, consolidando-se como o motor energético da geração distribuida.
+* Sudeste detém 33,9% de toda a potência instalada, podendo ser um indicativo de combinação de poder aquisitivo e alta tarifa energética impulsiona adoção;
+* Apesar do Nordeste ter maior irradiância solar, o Sul tem mais potência instalada, sugerindo que fatores econômicos/técnicos superam o potencial natural;
+*  Baixa penetração do Norte (8,2%) pode indicar desafios logísticos ou defasagem regulatória na Amazônia.
 
 
 ### Potência em relação a Estado e Cidade
@@ -96,29 +98,15 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 
 **Percepções**
 
-* Os estados Minas Gerais e São Paulo se encontram nas primeiras posições em potência instalada, enquanto o Rio de Janeiro se encontra na 9ª posição.
-* A cidade de Manaus, apesar de ser a 9ª cidade com maior potência instalada, possui a geração de aproximadamentes 76% de todo o estado.
-* Cidades com maior transição não pertencem aos primeiro colocado dos estados, podendo indicar que há uma concentração maior de aderência em poucas cidades, enquanto em outros pode haver maior diversificação.
+* Paraná  e Rio Grande do Sul superam expectativas, indicando alta adesão no Sul apesar da menor insolação;
+* Predominância do Centro-Oeste sugere correlação com alta insolação e espaço territorial disponível;
+* Desigualdade entre São Paulo e Roraima evidencia necessidade de políticas regionais diferenciadas;
+* A cidade de São Paulo demanda investigação sobre gargalos regulatórios ou espaciais na capital;
+* A cidade de Manaus, apesar de ser a 9ª cidade com maior potência instalada, possui a geração de aproximadamentes 76% de todo o estado;
+* Diferença entre 1º e 10º colocado das cidades demonstra alta concentracao em poucos municípios.
 
 
-### 
-
-</head>
-<body>
-       <table>
-              <tr>
-                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/tipo_consumidor_estado.png"></td>
-              </tr>
-       </table>
-</body>
-</html>
-
-**Percepções**
-*  Apesar de Pessoas Físicas possuirem maior aderência, com aproximadamente 91,7% dos consumidores, a potência instalada pelas Pessoas Jurídicas por Estado não são muito discrepantes entre si.
-*  
-
-
-### 
+### Total de Unidades e Média de kW por Instalação
 
 </head>
 <body>
@@ -131,9 +119,34 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 </html>
 
 **Percepções**
-*
 
-### 
+* Apesar das unidades adquiridas por PF ser 2 mais numerosa, PJ concentra potência média significativa;
+* Média e 8 kW da PF indica projetos mais compactos, tornando uma possibilidade de escolha residêncial, enquanto os de PJ dá indicativas de modelos comerciais/industriais;
+* Diferença de escala pode justificar análises diferenciadas de viabilidade econômica por segmento.
+
+
+### Potência Instalada por Estado e Tipo de Consumidor
+
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/tipo_consumidor_estado.png"></td>
+              </tr>
+       </table>
+</body>
+</html>
+
+**Percepções**
+
+*  Estados industrializados (São Paulo, Minas Gerais, Rio de Janeiro) têm maior participação PJ;
+*  Mato Grosso, Goiás e Mato Grosso do Sul com alta PF refletem adoção rural/familiar;
+*  Diferença de perfil sugere necessidade de políticas comerciais distintas por estado.
+
+
+
+
+### Classe de Consumidor por Estado
 
 </head>
 <body>
@@ -146,10 +159,12 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 </html>
 
 **Percepções**
-*
+
+* Classe residencial como motor da transição energética distribuída;
+* Mato Grosso do Sul, Mato Grosso e Goiás com alto percentual rural confirmam tendência de microgeração no campo.
 
 
-### 
+### Quantidade por Modalidade
 
 </head>
 <body>
@@ -162,10 +177,13 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 </html>
 
 **Percepções**
-*
+
+* Volume significativo de autoconsumo remoto sugere maturidade do mercado para modelos sem geração local;
+* Sistema de instalação "rooftop" próprio ainda é o padrão de negócio;
+* Apenas 341 instalações em condomínios indica barreira regulatória ou técnica a ser investigada.
 
 
-### 
+### Volume de Conexões por Ano (Transição de Sistema)
 
 </head>
 <body>
@@ -178,7 +196,10 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 </html>
 
 **Percepções**
-*
+
+* Anos de 2018-2024 representam fase de rápida disseminação tecnológica;
+* Anos de 2021-2022 mostram alto crescimento ao ano, período de transição energética acelerada;
+* Queda 2025 requer investigação para entender se ocorreu mudança regulatória.
 
 
 # Conclusão e Recomendação
