@@ -77,7 +77,8 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 </html>
 
 **Percepções**
-*
+* A energia solar se encontra em primeiro lugar em escolha de fontes renováveis, possuindo aproximadamente 99% do mercado.
+* Apesar de escolhas como energia eólica, termelétrica e hidrelétrica, juntas não representam aproximadamente 1% da atualização da fonte energética.
 
 ### kW instalados por Tipo de Consumidor
 
@@ -92,7 +93,8 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 </html>
 
 **Percepções**
-*
+* Pessoa Física(PF) foi responsável pela maior parte da mudança de matriz, detendo aproximadamente 64% das atualizações.
+* Apesar de Pessoas Jurídicas(PJ) em muitas vezes possuirem maior capital, detém menor índice de alteração.
 
 ### Estados com maior kW instalados
 
