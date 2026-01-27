@@ -11,7 +11,7 @@ Autor: Cássio Lanna
 
 [3. Dados](#dados)
 
-[4. Processmento e Limpeza](#processamento-e-limpeza)
+[4. Processamento e Limpeza](#processamento-e-limpeza)
 
 [5. Análise e Visualização](#análise-e-visualização)
 
@@ -35,7 +35,7 @@ Os dados foram obtidos pelo site da [ANEEL](https://dadosabertos.aneel.gov.br/) 
 
 ## Dados
 
-* [Dados históricos](https://dadosabertos.aneel.gov.br/dataset/relacao-de-empreendimentos-de-geracao-distribuida) se encontra no arquivo empreendimento-geracao-distribuida disponível em **csv** retirado no dia 24/01/2026.
+* [Dados históricos](https://dadosabertos.aneel.gov.br/dataset/relacao-de-empreendimentos-de-geracao-distribuida) encontram-se no arquivo **csv** empreendimento-geracao-distribuida, retirado no dia 24/01/2026.
 * [Dicionário](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Arquivos_ANEEL/dm-geracao-distribuida-relacao-de-empreendimentos.pdf) do banco de dados, contendo a versão 2.3 atualizada em 17/11/2025.
 * **Intervalo dos dados para análise**: junho de 2009 a janeiro de 2026 (1,3G).
 * O Conjunto de dados possui registros individuais sobre a alteração da fonte energéticas dos locais, incluindo a data, tipo de fonte energética, localização, latitude, longitude, distribuidoras responsável pela transferência, beneficiários, potência instaladas e quantas unidades foram contratadas.
@@ -45,11 +45,11 @@ Os dados foram obtidos pelo site da [ANEEL](https://dadosabertos.aneel.gov.br/) 
 
 * Os dados foram baixados para o HD local para manipulação e análise usando o **Python**;
 * Toda a **documentação e script** do trabalho está [aqui](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Arquivo_Python/analise_aneel.ipynb).
-* [**Dashboard**](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/tree/main/Arquivo_Power_BI)
-* Antes da limpeza, todo o dataset possuia  linhas 3.913.121 linas e 33 colunas.
+* [**Dashboard**](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/tree/main/Arquivo_Power_BI) para baixar e arquivo pdf deste.
+* Antes da limpeza, todo o dataset possuía  linhas 3.913.121 linas e 33 colunas.
 * **Processo de limpeza:** No processo de limpeza foram feitas:
   * Eliminação de 15 colunas que não são necessárias para a análise;
-  * Coluna SigAgente que continha valor vazio foi substituido pela Sigla da empresa contida na coluna NomAgente;
+  * Coluna SigAgente que continha valor vazio foi substituído pela Sigla da empresa contida na coluna NomAgente;
   * Linhas em que tinha o município vazio foram excluídas;
   * Valores vazios foram substituídos da seguinte forma: moda para valores qualitativos e mediana para valores quantitativos;
   * Dados duplicados foram eliminados
@@ -121,7 +121,7 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 **Percepções**
 
 * Apesar das unidades adquiridas por PF ser 2 mais numerosa, PJ concentra potência média significativa;
-* Média e 8 kW da PF indica projetos mais compactos, tornando uma possibilidade de escolha residêncial, enquanto os de PJ dá indicativas de modelos comerciais/industriais;
+* Média e 8 kW da PF indica projetos mais compactos, tornando uma possibilidade de escolha residencial, enquanto os de PJ dão indicações de modelos comerciais/industriais;
 * Diferença de escala pode justificar análises diferenciadas de viabilidade econômica por segmento.
 
 
