@@ -78,11 +78,11 @@ A ANEEL regulamenta a Geração Distribuída desde 2012 (RN 482), com marco regu
      
      * Dados numéricos: substituição pela mediana;
      
-  *Remoção de duplicatas: Registros de atualização histórica consolidados;
+  * Remoção de duplicatas: Registros de atualização histórica consolidados;
   
-  *Padronização: Renomeação de colunas para fácil entendimento;
+  * Padronização: Renomeação de colunas para fácil entendimento;
   
-  *Filtro temporal: Exclusão de registros anteriores a 2009 (inconsistências históricas).
+  * Filtro temporal: Exclusão de registros anteriores a 2009 (inconsistências históricas).
 
 
 * Toda a **documentação e script** do trabalho está [aqui](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Arquivo_Python/analise_aneel.ipynb).
