@@ -77,7 +77,9 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 </html>
 
 **Percepções**
-* 
+
+* Sudeste detém 33,9% de toda a potência instalada, consolidando-se como o motor energético da geração distribuida.
+
 
 ### Potência em relação a Estado e Cidade
 
@@ -93,7 +95,11 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 </html>
 
 **Percepções**
-* 
+
+* Os estados Minas Gerais e São Paulo se encontram nas primeiras posições em potência instalada, enquanto o Rio de Janeiro se encontra na 9ª posição.
+* A cidade de Manaus, apesar de ser a 9ª cidade com maior potência instalada, possui a geração de aproximadamentes 76% de todo o estado.
+* Cidades com maior transição não pertencem aos primeiro colocado dos estados, podendo indicar que há uma concentração maior de aderência em poucas cidades, enquanto em outros pode haver maior diversificação.
+
 
 ### 
 
@@ -108,7 +114,24 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 </html>
 
 **Percepções**
+*  Apesar de Pessoas Físicas possuirem maior aderência, com aproximadamente 91,7% dos consumidores, a potência instalada pelas Pessoas Jurídicas por Estado não são muito discrepantes entre si.
 *  
+
+
+### 
+
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/consumidor_unidades_kw.png"></td>
+              </tr>
+       </table>
+</body>
+</html>
+
+**Percepções**
+*
 
 ### 
 
@@ -125,20 +148,6 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 **Percepções**
 *
 
-### 
-
-</head>
-<body>
-       <table>
-              <tr>
-                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/consumidor_unidades_kw.png"></td>
-              </tr>
-       </table>
-</body>
-</html>
-
-**Percepções**
-*
 
 ### 
 
