@@ -55,6 +55,7 @@ A ANEEL regulamenta a Geração Distribuída desde 2012 (RN 482), com marco regu
 ## Metodologia
 
 **Stack Tecnológico:**:
+
    . **Limpeza & Análise**: Python 3.13 
    . **Visualização**: Matplotlib, Seaborn, Plotly, Power BI (Dashboard Executivo)
    . **Versionamento**: Git/GitHub
@@ -64,13 +65,21 @@ A ANEEL regulamenta a Geração Distribuída desde 2012 (RN 482), com marco regu
   **Ações Realizadas**:
 
   *Eliminação de redundâncias: Removidas 15 colunas não essenciais;
+  
   *Tratamento de valores nulos:
+  
      * Sigla do Agente: preenchida com sigla extraída do nome da empresa;
+     
      * Municípios vazios: exclusão das linhas;
+     
      * Dados categóricos: substituição pela moda;
+     
      * Dados numéricos: substituição pela mediana;
+     
   *Remoção de duplicatas: Registros de atualização histórica consolidados;
+  
   *Padronização: Renomeação de colunas para fácil entendimento;
+  
   *Filtro temporal: Exclusão de registros anteriores a 2009 (inconsistências históricas).
 
 
