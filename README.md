@@ -5,7 +5,7 @@ Autor: Cássio Lanna
 
 ## Índice
 
-[1. Introdução](#introdução)
+[1. Resumo](#resumo)
 
 [2. Tarefa de negócios](#tarefa-de-negócios)
 
@@ -19,26 +19,39 @@ Autor: Cássio Lanna
 
 [7. Possíveis escolhas para análise mais aprofundada](#possíveis-escolhas-para-análise-mais-aprofundada)
 
-## Introdução
+## Resumo
 
+O mercado de Geração Distribuída (GD) no Brasil atingiu 43,09 milhões de kW instalados, distribuídos em 3,86 milhões de unidades consumidoras (jan/2026). Este estudo analisa a base histórica da [ANEEL](https://dadosabertos.aneel.gov.br/) (2009-2026) para identificar padrões de adoção, desigualdades regionais e oportunidades de expansão.
 O cenário consiste na análise de dados na demanda de atualização da matriz energética brasileira.
 
-Os dados foram obtidos pelo site da [ANEEL](https://dadosabertos.aneel.gov.br/) (Agência Nacional de Energia Elétrica), uma empresa brasileira que regula e fiscaliza o setor elétrico, garantindo o fornecimento energético com qualidade e preço justo ao fiscalizar a geração, transmissão, distribuição e comercialização. Também sendo responsável como mediadora entre os consumidores e empresas.
+    **Principais Descobertas**:
+    
+    . Os 5 estados:São Paulo, Minas Gerais, Paraná, Rio Grande do Sul, Mato Grosso possuem ~51% de toda potência energética do país.
+    . Sul e Sudeste lideram apesar do Nordeste ter maior potencial solar.
+    . Pessoa Física (PF) domina em volume das instalações, mas Pessoa Jurídica (PJ) concentra potência média 6x maior (~48kW vs ~8kW).
+    . Apenas 341 instalações em condomínios verticais (<0,01% do mercado).
 
 ## Tarefa de Negócios
 
-    . Mapear o Panorama Nacional: Identificar que o mercado atingiu.
-    . Segmentar o Perfil de Investimento.
-    . Identificar Polos com maior atualização da fonte energética.
-    . Analisar a Dinâmica Operacional e Temporal.
-    . Auditar a Infraestrutura Tarifária.
+A ANEEL regulamenta a Geração Distribuída desde 2012 (RN 482), com marco regulatório atualizado pela Lei 14.300/2022. Este projeto busca responder:
+
+    . Quais regiões e perfis de consumidor impulsionam a transição energética?
+    . Existe correlação entre potencial solar natural e adoção real?
+    . Quais barreiras impedem a universalização do acesso à GD?
+    . Como as distribuidoras estão performando na habilitação de conexões?
 
 ## Dados
 
-* [Dados históricos](https://dadosabertos.aneel.gov.br/dataset/relacao-de-empreendimentos-de-geracao-distribuida) encontram-se no arquivo **csv** empreendimento-geracao-distribuida, retirado no dia 24/01/2026.
-* [Dicionário](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Arquivos_ANEEL/dm-geracao-distribuida-relacao-de-empreendimentos.pdf) do banco de dados, contendo a versão 2.3 atualizada em 17/11/2025.
-* **Intervalo dos dados para análise**: junho de 2009 a janeiro de 2026 (1,3G).
-* O Conjunto de dados possui registros individuais sobre a alteração da fonte energéticas dos locais, incluindo a data, tipo de fonte energética, localização, latitude, longitude, distribuidoras responsável pela transferência, beneficiários, potência instaladas e quantas unidades foram contratadas.
+| Característica | Especificação |
+| :--- | :--- |
+| **Fonte** | ANEEL - Sistema de Geração Distribuída (BIG Brasil) |
+| **Arquivo** | [`empreendimento-geracao-distribuida.csv`](https://dadosabertos.aneel.gov.br/dataset/relacao-de-empreendimentos-de-geracao-distribuida)|
+| **Dicionário**| [`dm-geracao-distribuida-relacao-de-empreendimentos`](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Arquivos_ANEEL/dm-geracao-distribuida-relacao-de-empreendimentos.pdf)|
+| **Período** | Jun/2009 a Jan/2026 (16 anos) |
+| **Tamanho original** | 3.913.121 registros, 33 colunas (1,3GB) |
+| **Tamanho final** | 3.863.030 registros, 18 colunas |
+| **Atualização** | 14/01/2026 |
+
 
 ## Processamento e Limpeza
 
