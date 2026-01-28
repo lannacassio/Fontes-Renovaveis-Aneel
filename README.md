@@ -52,7 +52,7 @@ A ANEEL regulamenta a Geração Distribuída desde 2012 (RN 482), com marco regu
 | **Período** | Jun/2009 a Jan/2026 (16 anos) |
 | **Tamanho original** | 3.913.121 registros, 33 colunas (1,3GB) |
 | **Tamanho final** | 3.863.030 registros, 18 colunas |
-| **Atualização** | 14/01/2026 |
+| **Atualização** | 28/01/2026 |
 
 ## Metodologia
 
