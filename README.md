@@ -214,11 +214,21 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 </body>
 </html>
 
+
+| Modalidade | Unidades | Potencia Média (kW) | Total(%) | Descrição |
+| :--- | :--- | :--- | :--- |:--- |
+| Geracao na propria UC | 3.108.064 | ~9,94 | 80,456% | Sistema no mesmo endereço do consumo |
+| Auto consumo remoto | 737.774 | ~13,23 | 19,098% | Geração em local diferente, mesma concessionária |
+| Compartilhada | 16.881 | ~142,36 | 0,436% | Múltiplos beneficiários de mesma usina |
+| Condomínio | 341 | ~12,91 | 0,008% | Geração em áreas comuns de edifícios |
+
+
 **Percepções**
 
 * Volume significativo de autoconsumo remoto sugere maturidade do mercado para modelos sem geração local;
 * Sistema de instalação "rooftop" próprio ainda é o padrão de negócio;
 * Apenas 341 instalações em condomínios indica barreira regulatória ou técnica a ser investigada.
+
 
 
 ### Volume de Conexões por Ano (Transição de Sistema)
