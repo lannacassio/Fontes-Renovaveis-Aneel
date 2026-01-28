@@ -87,7 +87,7 @@ A ANEEL regulamenta a Geração Distribuída desde 2012 (RN 482), com marco regu
   * Filtro temporal: Exclusão de registros anteriores a 2009 (inconsistências históricas).
 
 
-* Toda a **documentação e script** do trabalho está [aqui](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Arquivo_Python/analise_aneel.ipynb).
+* Toda a **documentação e script** do trabalho em **Python** está [aqui](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Arquivo_Python/analise_aneel.ipynb).
 
 >O arquivo csv limpo se encontra [aqui](https://drive.google.com/drive/folders/1b2dd77UNPztNKXTBFmChH3theqQYz3nY?usp=sharing)
 
