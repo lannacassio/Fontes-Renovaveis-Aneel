@@ -243,6 +243,16 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 </body>
 </html>
 
+
+|Periodo | Novos Clientes | Potência Instalada (kW) | Crescimento(%) |
+| :--- | :--- |:--- | :--- |
+|2009-2012 | 123 | 1.514,91 | 0% |
+|2013-2016 | 7.248 | 79.553,55 |5.792,68% |
+|2017-2020 | 383.662 | 5;036.593,70 |5.193,35% |
+|2020-2024 | 2.737.346 | 30.407.352,38 |613,48% |
+|2025 | 734.678 | 7.569.013,63 |-73,16% |
+
+
 **Percepções**
 
 * Anos de 2018-2024 representam fase de rápida disseminação tecnológica;
