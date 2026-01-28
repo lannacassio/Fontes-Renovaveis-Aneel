@@ -117,14 +117,7 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 ### Potência em relação a Estado e Cidade
 
 
-<table>
-  <tr>
-    <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/potencia_estado.png"></td>
-    <td><img src="https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/top_10_cidades.png"></td>
-  </tr>
-</table>
-
-
+![Estado](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/potencia_estado.png?raw=true) ![Cidades](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/top_10_cidades.png?raw=true)
 
 
 
