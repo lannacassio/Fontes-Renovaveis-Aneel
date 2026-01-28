@@ -120,9 +120,8 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 ![Estado](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/potencia_estado.png?raw=true) ![Cidades](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/top_10_cidades.png?raw=true)
 
 
-
 | Posição | Cidade | Potencia (kW) | Posição do Estado | Caracteristica |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | 1ª | Brasília | 521.998 | 21ª | Capital federal, área territorial disponível |
 | 2ª | Cuiabá | 422.692 | 5ª | Polo agroindustrial |
 | 3ª | Campo Grande | 407.660 | 8ª | Centro-Oeste |
