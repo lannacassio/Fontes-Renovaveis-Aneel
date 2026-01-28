@@ -158,8 +158,8 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 
 **Percepções**
 
-* Apesar das unidades adquiridas por Pessoa Física ser 2x mais numerosa, Pessoa Jurídica concentra potência média significativa;
-* Média e 8 kW da Pessoa Física indica projetos mais compactos, tornando uma possibilidade de escolha residencial, enquanto os de Pessoa Jurídica dão indicações de modelos comerciais/industriais;
+* Apesar das unidades adquiridas por Pessoa Física ser mais numerosa, Pessoa Jurídica concentra potência média significativa;
+* Média de 8 kW da Pessoa Física indica projetos mais compactos, tornando uma possibilidade de escolha residencial, enquanto os de Pessoa Jurídica dão indicações de modelos comerciais/industriais;
 * Diferença de escala pode justificar análises diferenciadas de viabilidade econômica por segmento.
 
 
