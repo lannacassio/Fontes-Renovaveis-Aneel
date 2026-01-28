@@ -150,6 +150,12 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 </body>
 </html>
 
+| Tipo | Clientes | Unidades | Potencia(%) | Potência Média (kW) | Perfil |
+| :--- | :--- | :--- | :--- | :--- |:--- |
+| PF | 3.544.754 | 4.911.502 | 64,5% | 7.84 | Residencial compacto |
+| PJ | 318.306 | 2.004.425 | 35,4% | 47.98 | Comercial/Industrial |
+
+
 **Percepções**
 
 * Apesar das unidades adquiridas por PF ser 2 mais numerosa, PJ concentra potência média significativa;
