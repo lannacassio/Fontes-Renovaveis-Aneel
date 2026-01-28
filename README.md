@@ -134,7 +134,7 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 * Predominância do Centro-Oeste sugere correlação com alta insolação e espaço territorial disponível;
 * Desigualdade entre São Paulo e Roraima evidencia necessidade de políticas regionais diferenciadas;
 * A cidade de São Paulo demanda investigação sobre gargalos regulatórios ou espaciais na capital;
-* A cidade de Manaus, apesar de ser a 9ª cidade com maior potência instalada, possui a geração de aproximadamentes 76% de todo o seu estado;
+* A cidade de Manaus, apesar de ser a 9ª cidade com maior potência instalada, possui a geração de aproximadamente 76% de todo o seu estado;
 * Diferença entre 1º e 10º colocado das cidades demonstra alta concentracao em poucos municípios.
 
 
@@ -152,14 +152,14 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 
 | Tipo | Clientes | Unidades | Potencia(%) | Potência Média (kW) | Perfil |
 | :--- | :--- | :--- | :--- | :--- |:--- |
-| PF | 3.544.754 | 4.911.502 | 64,5% | 7.84 | Residencial compacto |
-| PJ | 318.306 | 2.004.425 | 35,4% | 47.98 | Comercial/Industrial |
+| Pessoa Física| 3.544.754 | 4.911.502 | 64,5% | 7.84 | Residencial compacto |
+| Pessoa Jurídica| 318.306 | 2.004.425 | 35,4% | 47.98 | Comercial/Industrial |
 
 
 **Percepções**
 
-* Apesar das unidades adquiridas por PF ser 2 mais numerosa, PJ concentra potência média significativa;
-* Média e 8 kW da PF indica projetos mais compactos, tornando uma possibilidade de escolha residencial, enquanto os de PJ dão indicações de modelos comerciais/industriais;
+* Apesar das unidades adquiridas por Pessoa Físicaser 2 mais numerosa, Pessoa Jurídicaconcentra potência média significativa;
+* Média e 8 kW da Pessoa Físicaindica projetos mais compactos, tornando uma possibilidade de escolha residencial, enquanto os de Pessoa Jurídicadão indicações de modelos comerciais/industriais;
 * Diferença de escala pode justificar análises diferenciadas de viabilidade econômica por segmento.
 
 
@@ -178,7 +178,7 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 **Percepções**
 
 *  Estados industrializados (São Paulo, Minas Gerais, Rio de Janeiro) têm maior participação PJ;
-*  Mato Grosso, Goiás e Mato Grosso do Sul com alta PF refletem adoção rural/familiar;
+*  Mato Grosso, Goiás e Mato Grosso do Sul com alta Pessoa Físicarefletem adoção rural/familiar;
 *  Diferença de perfil sugere necessidade de políticas comerciais distintas por estado.
 
 
