@@ -127,6 +127,16 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 </body>
 </html>
 
+
+
+| **Posição** | **Cidade** | **Potencia (kW)** | **Posição do Estado** | **Caracteristica** |
+| :----| :----| :----| :----|
+| 1ª  | Brasília  | 521.998  | 21ª   | Capital federal, área territorial disponível   |
+| 2ª  | Cuiabá  | 422.692  | 5ª   | Polo agroindustrial   |
+| 3ª  | Campo Grande  | 407.660  | 8ª   | Centro-Oeste   |
+| 10ª  | São Paulo  | 196.461  | 1ª   | Anomalia urbana   |
+
+
 **Percepções**
 
 * Paraná  e Rio Grande do Sul superam expectativas, indicando alta adesão no Sul apesar da menor insolação;
