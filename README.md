@@ -158,8 +158,8 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 
 **Percepções**
 
-* Apesar das unidades adquiridas por Pessoa Físicaser 2 mais numerosa, Pessoa Jurídicaconcentra potência média significativa;
-* Média e 8 kW da Pessoa Físicaindica projetos mais compactos, tornando uma possibilidade de escolha residencial, enquanto os de Pessoa Jurídicadão indicações de modelos comerciais/industriais;
+* Apesar das unidades adquiridas por Pessoa Física ser 2x mais numerosa, Pessoa Jurídica concentra potência média significativa;
+* Média e 8 kW da Pessoa Física indica projetos mais compactos, tornando uma possibilidade de escolha residencial, enquanto os de Pessoa Jurídica dão indicações de modelos comerciais/industriais;
 * Diferença de escala pode justificar análises diferenciadas de viabilidade econômica por segmento.
 
 
@@ -178,7 +178,7 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 **Percepções**
 
 *  Estados industrializados (São Paulo, Minas Gerais, Rio de Janeiro) têm maior participação PJ;
-*  Mato Grosso, Goiás e Mato Grosso do Sul com alta Pessoa Físicarefletem adoção rural/familiar;
+*  Mato Grosso, Goiás e Mato Grosso do Sul com alta Pessoa Física refletem adoção rural/familiar;
 *  Diferença de perfil sugere necessidade de políticas comerciais distintas por estado.
 
 
