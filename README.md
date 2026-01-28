@@ -134,7 +134,7 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 * Predominância do Centro-Oeste sugere correlação com alta insolação e espaço territorial disponível;
 * Desigualdade entre São Paulo e Roraima evidencia necessidade de políticas regionais diferenciadas;
 * A cidade de São Paulo demanda investigação sobre gargalos regulatórios ou espaciais na capital;
-* A cidade de Manaus, apesar de ser a 9ª cidade com maior potência instalada, possui a geração de aproximadamentes 76% de todo o estado;
+* A cidade de Manaus, apesar de ser a 9ª cidade com maior potência instalada, possui a geração de aproximadamentes 76% de todo o seu estado;
 * Diferença entre 1º e 10º colocado das cidades demonstra alta concentracao em poucos municípios.
 
 
