@@ -51,8 +51,7 @@ A ANEEL regulamenta a Geração Distribuída desde 2012 (RN 482), com marco regu
     . Mapear a Concentração Geográfica
     . Analisar a Evolução Temporal da Adoção
     . Avaliar a Estrutura de Comercialização
-    . Quais regiões e perfis de consumidor impulsionam a transição energética?
-    . Existe correlação entre potencial solar natural e adoção real?
+
 
 ## Dados
 
