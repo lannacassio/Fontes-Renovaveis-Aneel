@@ -249,6 +249,7 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
        <table>
               <tr>
                      <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/transi%C3%A7%C3%A3o_anual.png"></td>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/periodo.png"></td>
               </tr>
        </table>
 </body>
