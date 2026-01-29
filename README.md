@@ -32,12 +32,12 @@ O cenário consiste na análise de dados na demanda de atualização da matriz e
    | :---| :---| :---|
    | **Potência Total** | 43,09 Mi kW | 5 estados brasileiros possuem ~51% de toda potência instalada |
    | **Unidades Consumidoras** | 3,86 Mi | PF: 71% e PJ: 29% |
-   | **Média kW por instalação (PF)** | ~8 kW |  |
-   | **Média kW por instalação (PJ)** | ~48 kW |  |
-   | **Modalidade Dominante** |  |  |
-   | **Nicho Menor** |  |  |
-   | **Período Analisado** |  |  |
-   | **Crescimento** |  |  |
+   | **Média kW por instalação (PF)** | ~8 kW | Perfil Residencial |
+   | **Média kW por instalação (PJ)** | ~48 kW | Perfil comercial/industrial |
+   | **Modalidade Dominante** | 80% | Geração na própria UC |
+   | **Nicho Menor** | 0,008% | Condomínio |
+   | **Período Analisado** | 2009-2025 | 16 anos |
+   | **Crescimento** | 2020-2024 | Período de Grande Expansão |
 
 
     
