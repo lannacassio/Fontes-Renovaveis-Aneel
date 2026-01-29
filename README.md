@@ -42,9 +42,6 @@ O cenário consiste na análise de dados na demanda de atualização da matriz e
 
     
     . Os 5 estados:São Paulo, Minas Gerais, Paraná, Rio Grande do Sul, Mato Grosso possuem ~51% de toda potência energética do país.
-    . Sul e Sudeste lideram apesar do Nordeste ter maior potencial solar.
-    . Pessoa Física (PF) domina em volume das instalações, mas Pessoa Jurídica (PJ) concentra potência média 6x maior (~48kW vs ~8kW).
-    . Apenas 341 instalações em condomínios verticais (<0,01% do mercado).
 
 ## Tarefa de Negócios
 
