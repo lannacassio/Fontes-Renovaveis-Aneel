@@ -35,7 +35,7 @@ O cenário consiste na análise de dados na demanda de atualização da matriz e
    | **Média kW por instalação (PF)** | ~8 kW | Perfil Residencial |
    | **Média kW por instalação (PJ)** | ~48 kW | Perfil comercial/industrial |
    | **Modalidade Dominante** | 80% | Geração na própria UC |
-   | **Nicho Menor** | 0,008% | Condomínio |
+   | **Nicho Menor** | 0,008% | Condomínio (341 unidades) |
    | **Período Analisado** | 2009-2025 | 16 anos |
    | **Crescimento** | 2020-2024 | Período de Grande Expansão |
 
