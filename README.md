@@ -27,6 +27,19 @@ O mercado de Geração Distribuída (GD) no Brasil atingiu 43,09 milhões de kW 
 O cenário consiste na análise de dados na demanda de atualização da matriz energética brasileira.
 
    **Principais Descobertas**:
+
+   | Métrica | Valor | Destaque |
+   | :---| :---| :---|
+   | **Potência Total** | 43,09 Mi kW | 5 estados brasileiros possuem ~51% de toda potência instalada |
+   | **Unidades Consumidoras** | 3,86 Mi | PF: 71% e PJ: 29% |
+   | **Média kW por instalação (PF)** | ~8 kW |  |
+   | **Média kW por instalação (PJ)** | ~48 kW |  |
+   | **Modalidade Dominante** |  |  |
+   | **Nicho Menor** |  |  |
+   | **Período Analisado** |  |  |
+   | **Crescimento** |  |  |
+
+
     
     . Os 5 estados:São Paulo, Minas Gerais, Paraná, Rio Grande do Sul, Mato Grosso possuem ~51% de toda potência energética do país.
     . Sul e Sudeste lideram apesar do Nordeste ter maior potencial solar.
