@@ -352,6 +352,13 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 | Acre| 2024 | 46728,37 | 147,576331 | 101,973950 | alto | baixa |
 
 
+**Percepções**
+
+  * Amapá e Acre apresentaram duas vezes, cada um, crescimento consistente ao longo dos últimos anos;
+  * Região Norte demonstra boa possibilidade de crescimento futuro;
+  * 2021-2022: anos de ignição para maioria dos estados;
+  * 2023-2025: consolidação e desaceleração natural — padrão sugere que "muito alto" é fase temporária de adoção precoce, não sustentável indefinidamente.
+
 ## Dashboard
 
 Para análises interativas detalhadas, desenvolvi um dashboard em Power BI segmentado em três visões:
