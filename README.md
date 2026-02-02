@@ -270,7 +270,9 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
   
 **Percepções**
 
-* Temos que ao longo do tempo tem ocorrido uma descentralização do mercado
+* Oscilações brutais 2009-2014, indicando mercado em caos competitivo com entrada e saída massiva de clientes;
+* Curva descendente contínua de 2017-2025: de 1.422 para 649 — tendência secular de fragmentação e democratização do acesso à geração distribuída;
+* Estagnação em torno de 740-790 de 2021 a 2024 — mercado atinge equilíbrio competitivo com barreiras.
 
 
 ### Quantidade por Modalidade
