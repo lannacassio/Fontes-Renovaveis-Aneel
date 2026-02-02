@@ -205,8 +205,16 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 ### Evolução da Potência Instalada e Potência Média (%) : PF vs PJ
 
 
-![PFPJ](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/evolucao_consumidor.png?raw=true)
-![MediaPFPJ](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/cresc_medio_pfpj.png?raw=true)
+</head>
+<body>
+       <table>
+              <tr>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/evolucao_consumidor.png"></td>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/cresc_medio_pfpj.png"></td>
+              </tr>
+       </table>
+</body>
+</html>
 
 
 
