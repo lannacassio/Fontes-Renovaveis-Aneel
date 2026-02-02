@@ -269,11 +269,9 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 </body>
 </html>
 
-  . HHI < 1000 - Mercado Descentralizado
-
-  . HHI > 1000 | HHI < 1800 - Concentração Moderado
-
-  . HHI > 1800 - Mercado Centralizado
+    . HHI < 1000 - Mercado Descentralizado
+    . HHI > 1000 | HHI < 1800 - Concentração Moderado
+    . HHI > 1800 - Mercado Centralizado
 
   
 **Percepções**
