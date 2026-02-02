@@ -23,7 +23,7 @@ Autor: Cássio Lanna
 
 ## Resumo
 
-O mercado de Geração Distribuída (GD) no Brasil atingiu 43,09 milhões de kW instalados, distribuídos em 3,86 milhões de unidades consumidoras (jan/2026). Este estudo analisa a base histórica da [ANEEL](https://dadosabertos.aneel.gov.br/) (2009-2026) para identificar padrões de adoção, desigualdades regionais e oportunidades de expansão.
+O mercado de Geração Distribuída (GD) no Brasil atingiu 43,09 milhões de kW instalados, distribuídos em 3,86 milhões de clientes (dez/2025). Este estudo analisa a base histórica da [ANEEL](https://dadosabertos.aneel.gov.br/) (2009-2026) para identificar padrões de adoção, desigualdades regionais e oportunidades de expansão.
 O cenário consiste na análise de dados na demanda de atualização da matriz energética brasileira.
 
    **Principais Descobertas**:
