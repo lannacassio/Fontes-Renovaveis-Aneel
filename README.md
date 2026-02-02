@@ -169,8 +169,9 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 
 **Percepções**
 
-* O Nordeste é a região que tem o maior crescimento anual na Geração Distribuída, logo uma região em desenvolvimento;
-* Apesar do Sudeste possuir a maior quantidade de potência, ela é a região com o menor crescimento anual, mostrando ser uma região madura e consolidada;
+* O Nordeste está em uma fase de expansão acelerada;
+* Apesar do Sudeste possuir a maior quantidade de potência, ela é a região com o menor crescimento anual, indicando maturidade do mercado;
+* Regiões com menor base atual apresentam maiores taxas de crescimento
 
 
   
@@ -201,30 +202,18 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 
 
 
-### Evolução da Potência Instalada: PF vs PJ
+### Evolução da Potência Instalada e Potência Média (%) : PF vs PJ
 
 
 ![PFPJ](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/evolucao_consumidor.png?raw=true)
-
-
-
-
-**Percepções**
-
-*
-
-
-
-### Evolução da Potência Média (%): PF vs PJ
-
-
 ![MediaPFPJ](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/cresc_medio_pfpj.png?raw=true)
 
 
 
 **Percepções**
 
-*
+* PF apresenta crescimento exponencial sustentado; PJ exibe padrão de linearidade;
+* Aumento médio anual PF: 313% vs. PJ: 62% — diferença de 5x na taxa de crescimento tendencial;
 
 ### Crescimento Médio Anual (%) da Classe de Consumo
 
@@ -240,20 +229,22 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 
 | Classe_consumidor |	Aumento_media_potencia_anual(%) |
 | :--- | :--- |
-| Comercial |	1.59 % |
-| Consumo Próprio |	2.41 % |
-| Iluminação pública	2.46 % |
-| Industrial	1.90 % |
-| Poder Público	5.91 % |
-| REBR	3.367 % |
-| Residencial	2.19 % |
-| Rural	1.63 % |
-| Serviço Público	1.05 % |
+| Comercial |	1,59 % |
+| Consumo | Próprio |	2,41 % |
+| Iluminação pública | 2,46 % |
+| Industrial | 1,90 % |
+| Poder Público | 5,91 % |
+| REBR | 3,367 % |
+| Residencial | 2,19 % |
+| Rural | 1,63 % |
+| Serviço Público | 1,05 % |
 
 
 **Percepções**
 
-*  
+*  Apesar do pouco investimento, o poder Público lidera com 5,91% ao ano;
+*  Iluminação pública (2,46%) e Consumo Próprio (2,41%) praticamente empatados, ambos refletem urbanização e autogeração distribuída crescendo em ritmo similar;
+*  Diferença de 4,86 pontos percentuais entre Poder Público (5,91%) e Serviço Público (1,05%). Apesar de ambos serem esferas governamentais, apresentam dinâmicas opostas
 
 
 
