@@ -45,12 +45,14 @@ O cenário consiste na análise de dados na demanda de atualização da matriz e
 
 ## Tarefa de Negócios
 
-A ANEEL regulamenta a Geração Distribuída desde 2012 (RN 482), com marco regulatório atualizado pela Lei 14.300/2022. Este projeto busca:
+A ANEEL regulamenta a Geração Distribuída desde 2012 (RN 482), com marco regulatório atualizado pela Lei 14.300/2022. Este projeto busca responder:
 
-    . Segmentar o Perfil Técnico de Adoção
-    . Mapear a Concentração Geográfica
-    . Analisar a Evolução Temporal da Adoção
-    . Avaliar a Estrutura de Comercialização
+    . Quais regiões e estados concentram a maior potência instalada de geração distribuída renovável?
+    . Onde ocorre o maior crescimento ao longo do tempo: regiões consolidadas ou regiões emergentes?
+    . O crescimento da geração distribuída está concentrado ou se descentralizando no território nacional?
+    . Quem impulsiona a expansão da GD: pessoa física ou pessoa jurídica?
+    . Quais classes de consumo apresentam maior dinamismo na adoção de fontes renováveis?
+    . Onde está o maior potencial de crescimento futuro da geração distribuída no Brasil?
 
 
 ## Dados
