@@ -151,6 +151,30 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 * Diferença entre 1º e 10º colocado das cidades demonstra alta concentracao em poucos municípios.
 
 
+### Crescimento médio (%) Anual
+
+
+![Estado](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/media_crescimento_regiao.png?raw=true)
+
+
+| Região | Crescimento Anual da Potência (%) | Base Inicial de Potência (kW) | 
+| :--- | :--- | :--- |
+| Nordeste | 6,33 % | 6 |
+| Sul | 2.52 % | 14 |
+| Centro Oeste | 2,27 % | 4,08 |
+| Norte | 2,24 % | 8,2 |
+| Sudeste | 1,54 % | 188,65 |
+
+
+
+**Percepções**
+
+* O Nordeste é a região que tem o maior crescimento anual na Geração Distribuída, logo uma região em desenvolvimento;
+* Apesar do Sudeste possuir a maior quantidade de potência, ela é a região com o menor crescimento anual, mostrando ser uma região madura e consolidada;
+
+
+  
+
 ### Total de Unidades e Média de kW por Instalação
 
 </head>
