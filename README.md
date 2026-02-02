@@ -154,7 +154,7 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 ### Crescimento médio (%) Anual
 
 
-![Estado](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/media_crescimento_regiao.png?raw=true)
+![PotenciaAnual](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/media_crescimento_regiao.png?raw=true)
 
 
 | Região | Crescimento Anual da Potência (%) | Base Inicial de Potência (kW) | 
@@ -200,43 +200,86 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 * Diferença de escala pode justificar análises diferenciadas de viabilidade econômica por segmento.
 
 
-### Potência Instalada por Estado e Tipo de Consumidor
+
+### Evolução da Potência Instalada: PF vs PJ
+
+
+![PFPJ](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/evolucao_consumidor.png?raw=true)
+
+
+
+
+**Percepções**
+
+*
+
+
+
+### Evolução da Potência Média (%): PF vs PJ
+
+
+![MediaPFPJ](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/cresc_medio_pfpj.png?raw=true)
+
+
+
+**Percepções**
+
+*
+
+### Crescimento Médio Anual (%) da Classe de Consumo
 
 </head>
 <body>
        <table>
               <tr>
-                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/tipo_consumidor_estado.png"></td>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/cresc_medio_classe.png"></td>
               </tr>
        </table>
 </body>
 </html>
 
+| Classe_consumidor |	Aumento_media_potencia_anual(%) |
+| :--- | :--- |
+| Comercial |	1.59 % |
+| Consumo Próprio |	2.41 % |
+| Iluminação pública	2.46 % |
+| Industrial	1.90 % |
+| Poder Público	5.91 % |
+| REBR	3.367 % |
+| Residencial	2.19 % |
+| Rural	1.63 % |
+| Serviço Público	1.05 % |
+
+
 **Percepções**
 
-*  Estados industrializados (São Paulo, Minas Gerais, Rio de Janeiro) têm maior participação PJ;
-*  Mato Grosso, Goiás e Mato Grosso do Sul com alta Pessoa Física refletem adoção rural/familiar;
-*  Diferença de perfil sugere necessidade de políticas comerciais distintas por estado.
+*  
 
 
 
 
-### Classe de Consumidor por Estado
+### Evolução do Índice de Concentração da Geração Distribuida
 
 </head>
 <body>
        <table>
               <tr>
-                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/clase_consumidor_estado.png"></td>
+                     <td><img src= "https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/hhi.png"></td>
               </tr>
        </table>
 </body>
 </html>
 
+  . HHI < 1000 - Mercado Descentralizado
+
+  . HHI > 1000 | HHI < 1800 - Concentração Moderado
+
+  . HHI > 1800 - Mercado Centralizado
+
+  
 **Percepções**
 
-* Classe residencial como motor da transição energética distribuída;
-* Mato Grosso do Sul, Mato Grosso e Goiás com alto percentual rural confirmam tendência de microgeração no campo.
+* Temos que ao longo do tempo tem ocorrido uma descentralização do mercado
 
 
 ### Quantidade por Modalidade
@@ -296,6 +339,24 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 * Anos de 2018-2024 representam fase de rápida disseminação tecnológica;
 * Anos de 2021-2022 mostram alto crescimento ao ano, período de transição energética acelerada;
 * Queda 2025 requer investigação para entender se ocorreu mudança regulatória.
+
+
+### Potencial de Crescimento Futuro da Geração Distribuída no Brasil
+
+| Estado | Ano | kW | Evolução_media_potencia(%) | Evolução_potencia(%) | crescimento | crescimento_base |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Amapá | 2023 | 33714,39 | 762,990584 | 268,797817 | muito alto | baixa |
+| Rio Grande do Norte | 2025 | 75643,91 | 147,968595 | 202,717312 | muito alto | baixa |
+| Acre | 2021 | 16611,03 | 147,576331 | 178,305108 | alto | baixa |
+| Espírito Santo | 2022 | 202847,95 | 320,880988 | 176,663294 | alto | baixa |
+| Roraima | 2023 | 20895,01 | 446,974235 | 172,189526 | alto | baixa |
+| Distrito Federal | 2022 | 125174,75 | 129,309490 | 141,470672 | alto | baixa |
+| Alagoas | 2022 | 88973,53 | 124,058459 | 135,747925 | alto | baixa |
+| Amapá | 2021 | 7210,95 | 762,990584 | 123,301076 | alto | baixa |
+| Pará | 2021 | 135786,01 | 341,382297 | 120,932986 | alto | baixa |
+| Maranhão | 2021	| 114358,06 | 174,525966 | 107,521757 | alto | baixa |
+| Amazonas | 2021 | 28943,58 | 176,017555 | 106,918546 | alto | baixa |
+| Acre| 2024 | 46728,37 | 147,576331 | 101,973950 | alto | baixa |
 
 
 ## Dashboard
