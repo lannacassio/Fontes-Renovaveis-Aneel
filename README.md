@@ -343,7 +343,7 @@ Foram analisados os dados de aproximadamente 3.8 milhões de registros de atuali
 
 ### Potencial de Crescimento Futuro da Geração Distribuída no Brasil
 
-| Estado | Ano | kW | Evolução_media_potencia(%) | Evolução_potencia(%) | crescimento | crescimento_base |
+| Estado | Ano | kW | Evolução Média da Potência (%) | Evolução da Potência Anual (%) | Desenvolvimento ao longo do tempo | Crescimento da Potência |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Amapá | 2023 | 33714,39 | 762,990584 | 268,797817 | muito alto | baixa |
 | Rio Grande do Norte | 2025 | 75643,91 | 147,968595 | 202,717312 | muito alto | baixa |
