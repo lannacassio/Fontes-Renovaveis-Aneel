@@ -426,7 +426,7 @@ Para uma análise mais profunda e detalhada seria ideal algumas informações:
 * Criar modelos temporais para estimar o crescimento da geração nos próximos dois anos.
 * Entender se algo influencia a pouca aderência da região Norte ao implementar as fontes renováveis.
 
- # Feedback
+ # 💬 Feedback
  
  Sua opinião é muito importante! 
 - Encontrou algo que pode ser melhorado?
@@ -437,4 +437,4 @@ Para uma análise mais profunda e detalhada seria ideal algumas informações:
 - Tem alguma ideia de visualização que ficaria incrível aqui?
 - Deixe seu comentário na aba de Discussões. Sua opinião é muito importante!
 
- [**Clique aqui para deixar seu comentário na aba de Discussões**](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/discussions/1)
+ 👉 [**Clique aqui para deixar seu comentário na aba de Discussões**](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/discussions/1)
