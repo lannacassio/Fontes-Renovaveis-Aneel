@@ -406,7 +406,7 @@ Baixar [Dashboard](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/tree/m
 * **Recomendações**:
     * Empresas de instalação devem priorizar o seguimento PJ(Pessoa Jurídica), dado sua representatividade financeira e possibilidade maior da potência média.
     * Municípios com alta incidência solar e baixa densidade de usinas, representam uma nova frente de vendas, especialmente fora do eixo Minas-São Paulo.
-    * O alto volume de conexões residiciais exige um maior monitoramente das distribuidoras para evitar sobrecargas, abrindo espaço para soluções de armazenamento de energia.
+    * O alto volume de conexões residenciais exige um maior monitoramente das distribuidoras para evitar sobrecargas, abrindo espaço para soluções de armazenamento de energia.
     * Focar em nichos de segmentos emergentes como instalação em Condomínos, modelo pouco explorado.
     * Criar políticas diferenciadas para Norte e Nordeste (menor poder aquisitivo, maior potencial solar).
 
