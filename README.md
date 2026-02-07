@@ -21,6 +21,8 @@ Autor: Cássio Lanna
 
 [8. Possíveis escolhas para análise mais aprofundada](#possíveis-escolhas-para-análise-mais-aprofundada)
 
+[9. Feedback](#feedback)
+
 ## Resumo
 
 O mercado de Geração Distribuída (GD) no Brasil atingiu 43,09 milhões de kW instalados, distribuídos em 3,86 milhões de clientes (dez/2025). Este estudo analisa a base histórica da [ANEEL](https://dadosabertos.aneel.gov.br/) (2009-2025) para identificar padrões de adoção, desigualdades regionais e oportunidades de expansão.
@@ -423,4 +425,16 @@ Para uma análise mais profunda e detalhada seria ideal algumas informações:
 * Fazer uma análise sobre fatores externos, como pandemia, influenciaram a aderência da transição energética.
 * Criar modelos temporais para estimar o crescimento da geração nos próximos dois anos.
 * Entender se algo influencia a pouca aderência da região Norte ao implementar as fontes renováveis.
+
+ # Feedback
  
+ Sua opinião é muito importante! 
+- Encontrou algo que pode ser melhorado?
+- Quer me dar dicas?
+- Cometi um erro?
+- Vamos melhorar este projeto juntos? Adoraria ouvir sua opinião!
+- O que você faria de diferente?
+- Tem alguma ideia de visualização que ficaria incrível aqui?
+- Deixe seu comentário na aba de Discussões. Sua opinião é muito importante!
+
+ [**Clique aqui para deixar seu comentário na aba de Discussões**](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/discussions/1)
