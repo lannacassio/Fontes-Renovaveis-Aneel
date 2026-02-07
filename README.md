@@ -392,6 +392,9 @@ Para análises interativas detalhadas, desenvolvi um dashboard em Power BI segme
     . Projeção: Indicadores de crescimento mês a mês
    
     . Comparativo Consumidor: Comparação dos consumidores e a tensão instalada
+
+![Demonstração](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/blob/main/Imagens/dash_gif.gif)
+
    
 Baixar [Dashboard](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/tree/main/Arquivo_Power_BI) Completo ([PDF](https://github.com/lannacassio/Fontes-Renovaveis-Aneel/tree/main/Arquivo_Power_BI))
 (Desenvolvido em Power BI Desktop - dados atualizados jan/2026)
